@@ -2,7 +2,7 @@
 
 Note: This is not a rewrite from scratch. It's more of a copy of the original one splitted to and replaced by React components. It took 2 days to create it so it is very far from complete or optimal. It's a demo built for Symless to get their attention for an application. :)
 
-You can try the live demo [here](symless-react.github.io).
+You can try the live demo [here](https://symless-react.github.io).
 
 ## Setup
 
